@@ -1,0 +1,27 @@
+tr{
+	text-align: center;
+} 
+.corgs{
+    text-align: center;
+    background: #84a98c;
+}
+.corgi{
+	text-align: left;
+	background: #84a98c;
+}
+.pom{
+	text-align: center;
+	background: #52796f;
+}
+.poms{
+	text-align: center;
+	background: #52796f;
+}
+.cava{
+	text-align: center;
+	background: #354f52;
+}
+.cavapoo{
+	text-align: right;
+	background: #354f52;
+}
